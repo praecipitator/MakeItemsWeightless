@@ -1,8 +1,8 @@
 {
   "Nickname": "",
   "Visibility": "Visible",
-  "OneLineDescription": "",
-  "LongDescription": "",
+  "OneLineDescription": "Makes items weightless",
+  "LongDescription": "Makes items weightless by type. \r\n\r\nTypes are: Misc Items, Ammo, Holotapes, Keys, Notes, Ingestibles, Weapons, Armor&Clothing\r\nBe aware that for the last two categories this only affects the base weight. Modifications might still increase it.",
   "PreferredAutoVersioning": "Default",
   "RequiredMods": [],
   "TargetedReleases": []
