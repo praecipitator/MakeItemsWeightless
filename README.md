@@ -2,7 +2,7 @@ This is a [Mutagen](https://github.com/Mutagen-Modding/Mutagen)-based autopatche
 
 # Description
 
-Makes items weightless by type. 
+Makes Fallout 4 Items weightless by type. 
 
 Types are: Misc Items, Ammo, Holotapes, Keys, Notes, Ingestibles, Weapons, Armor&Clothing
 Be aware that for the last two categories this only affects the base weight. Modifications might still increase it.
